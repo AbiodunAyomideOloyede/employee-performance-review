@@ -1,0 +1,161 @@
+Employee ID,Department,Role,Quarter,Attendance Band,Training Category,Goal Achievement,Manager Rating,Performance Band,Score (%)
+EMP0001,Customer Service,CS Supervisor,Q1 2024,Good,High (7+),Met,4.2,Good,72.7
+EMP0002,IT,Developer,Q4 2024,Fair,High (7+),Met,3.8,Good,73.0
+EMP0003,Customer Service,CSR,Q1 2024,Excellent,Medium (3-6),Partially Met,3.3,Good,78.1
+EMP0004,Finance,Analyst,Q4 2024,Fair,Medium (3-6),Met,4.4,Average,58.1
+EMP0005,IT,Developer,Q2 2024,Excellent,High (7+),Not Met,4.8,Good,83.7
+EMP0006,Sales,Sales Rep,Q4 2024,Fair,Medium (3-6),Not Met,4.6,Poor,48.2
+EMP0007,Network Ops,Senior Technician,Q4 2024,Good,High (7+),Met,4.2,Good,70.4
+EMP0008,Network Ops,Network Manager,Q2 2024,Fair,Medium (3-6),Not Met,4.4,Outstanding,94.9
+EMP0009,Network Ops,Network Manager,Q2 2024,Excellent,Low (0-2),Partially Met,4.3,Outstanding,94.3
+EMP0010,Finance,Senior Analyst,Q4 2024,Fair,High (7+),Not Met,3.2,Average,57.1
+EMP0011,Sales,Senior Sales Rep,Q4 2024,Fair,Medium (3-6),Met,4.7,Outstanding,93.8
+EMP0012,Sales,Sales Manager,Q3 2024,Fair,Medium (3-6),Partially Met,4.1,Good,76.9
+EMP0013,Network Ops,Network Manager,Q1 2024,Fair,Medium (3-6),Exceeded,4.2,Poor,54.2
+EMP0014,Sales,Sales Rep,Q1 2024,Good,High (7+),Met,5.0,Outstanding,98.3
+EMP0015,Network Ops,Senior Technician,Q4 2024,Fair,Medium (3-6),Met,4.3,Average,61.6
+EMP0016,Finance,Finance Manager,Q2 2024,Excellent,High (7+),Met,4.9,Good,73.6
+EMP0017,IT,Developer,Q4 2024,Excellent,Medium (3-6),Exceeded,5.0,Good,71.3
+EMP0018,Network Ops,Network Technician,Q3 2024,Excellent,High (7+),Exceeded,3.9,Average,62.6
+EMP0019,HR,HR Officer,Q1 2024,Good,High (7+),Exceeded,4.9,Good,76.5
+EMP0020,Sales,Senior Sales Rep,Q3 2024,Good,Medium (3-6),Met,3.4,Average,55.1
+EMP0021,Customer Service,Senior CSR,Q4 2024,Excellent,Medium (3-6),Met,3.2,Outstanding,85.5
+EMP0022,Sales,Sales Manager,Q3 2024,Fair,Medium (3-6),Met,3.5,Good,81.0
+EMP0023,Customer Service,CS Supervisor,Q3 2024,Fair,Low (0-2),Partially Met,4.3,Average,66.1
+EMP0024,Customer Service,Senior CSR,Q2 2024,Fair,Low (0-2),Met,4.8,Outstanding,88.6
+EMP0025,IT,Developer,Q2 2024,Fair,Low (0-2),Met,3.6,Poor,53.5
+EMP0026,Finance,Analyst,Q3 2024,Good,High (7+),Exceeded,4.2,Outstanding,91.8
+EMP0027,IT,Developer,Q4 2024,Good,High (7+),Met,3.6,Good,71.1
+EMP0028,Finance,Senior Analyst,Q4 2024,Good,Low (0-2),Exceeded,4.9,Poor,42.1
+EMP0029,Finance,Finance Manager,Q3 2024,Fair,Low (0-2),Partially Met,4.1,Average,66.1
+EMP0030,Customer Service,CSR,Q1 2024,Good,Low (0-2),Partially Met,3.1,Outstanding,91.5
+EMP0031,HR,HR Manager,Q4 2024,Good,High (7+),Exceeded,4.5,Outstanding,95.4
+EMP0032,Customer Service,CS Supervisor,Q1 2024,Fair,High (7+),Met,4.9,Average,58.0
+EMP0033,Finance,Analyst,Q1 2024,Good,High (7+),Met,3.7,Average,60.5
+EMP0034,Customer Service,CSR,Q3 2024,Fair,Low (0-2),Met,4.8,Good,72.1
+EMP0035,Customer Service,CSR,Q3 2024,Excellent,Medium (3-6),Exceeded,3.5,Average,69.3
+EMP0036,Finance,Finance Manager,Q1 2024,Fair,High (7+),Met,4.7,Good,71.2
+EMP0037,Customer Service,CSR,Q1 2024,Fair,High (7+),Not Met,4.0,Poor,47.5
+EMP0038,IT,Developer,Q4 2024,Fair,Medium (3-6),Met,4.2,Poor,49.4
+EMP0039,Network Ops,Senior Technician,Q1 2024,Good,Medium (3-6),Exceeded,4.4,Poor,51.5
+EMP0040,IT,IT Support,Q4 2024,Fair,Medium (3-6),Met,4.3,Good,74.0
+EMP0041,Sales,Sales Manager,Q3 2024,Fair,Medium (3-6),Partially Met,3.8,Outstanding,93.2
+EMP0042,HR,HR Officer,Q1 2024,Good,Medium (3-6),Met,4.6,Average,67.7
+EMP0043,Customer Service,Senior CSR,Q3 2024,Fair,Medium (3-6),Met,3.2,Poor,47.8
+EMP0044,HR,HR Assistant,Q3 2024,Excellent,Medium (3-6),Partially Met,4.1,Outstanding,96.3
+EMP0045,Sales,Sales Manager,Q4 2024,Excellent,Low (0-2),Met,3.1,Good,83.0
+EMP0046,Sales,Sales Manager,Q3 2024,Good,Low (0-2),Partially Met,4.7,Poor,46.0
+EMP0047,Sales,Sales Rep,Q1 2024,Excellent,Medium (3-6),Met,3.1,Outstanding,90.6
+EMP0048,Finance,Finance Manager,Q1 2024,Good,Low (0-2),Met,4.9,Good,71.7
+EMP0049,Sales,Sales Manager,Q2 2024,Excellent,Low (0-2),Partially Met,5.0,Average,59.5
+EMP0050,HR,HR Assistant,Q4 2024,Good,Medium (3-6),Met,4.9,Average,67.2
+EMP0051,Finance,Senior Analyst,Q4 2024,Good,High (7+),Met,4.7,Outstanding,98.0
+EMP0052,Customer Service,Senior CSR,Q4 2024,Excellent,High (7+),Not Met,3.3,Good,81.5
+EMP0053,IT,IT Support,Q4 2024,Excellent,High (7+),Not Met,4.2,Poor,49.8
+EMP0054,Customer Service,CSR,Q3 2024,Fair,Low (0-2),Met,4.9,Average,56.0
+EMP0055,HR,HR Manager,Q4 2024,Good,High (7+),Partially Met,4.2,Outstanding,97.2
+EMP0056,Finance,Finance Manager,Q4 2024,Fair,Medium (3-6),Exceeded,4.6,Outstanding,99.0
+EMP0057,Customer Service,CSR,Q2 2024,Good,Medium (3-6),Met,3.8,Good,74.2
+EMP0058,HR,HR Officer,Q1 2024,Fair,High (7+),Met,4.0,Good,82.1
+EMP0059,HR,HR Assistant,Q2 2024,Good,Low (0-2),Met,4.8,Outstanding,91.4
+EMP0060,HR,HR Manager,Q2 2024,Fair,Medium (3-6),Not Met,4.8,Outstanding,86.6
+EMP0061,Network Ops,Network Technician,Q1 2024,Fair,Medium (3-6),Exceeded,3.6,Poor,51.2
+EMP0062,IT,IT Support,Q3 2024,Fair,Low (0-2),Exceeded,3.1,Good,83.7
+EMP0063,IT,IT Manager,Q3 2024,Good,Low (0-2),Exceeded,3.9,Good,84.0
+EMP0064,IT,IT Support,Q3 2024,Excellent,High (7+),Met,3.2,Poor,52.6
+EMP0065,Network Ops,Network Technician,Q3 2024,Fair,High (7+),Not Met,3.2,Good,79.9
+EMP0066,HR,HR Officer,Q3 2024,Good,High (7+),Met,3.2,Good,80.7
+EMP0067,Network Ops,Network Manager,Q3 2024,Excellent,Low (0-2),Partially Met,3.1,Good,74.0
+EMP0068,Network Ops,Network Manager,Q2 2024,Fair,High (7+),Partially Met,3.4,Good,83.7
+EMP0069,HR,HR Officer,Q4 2024,Excellent,Low (0-2),Not Met,4.1,Poor,47.4
+EMP0070,HR,HR Assistant,Q1 2024,Good,Low (0-2),Partially Met,4.4,Average,67.5
+EMP0071,Finance,Finance Manager,Q3 2024,Good,Medium (3-6),Exceeded,3.8,Good,74.6
+EMP0072,Customer Service,CSR,Q3 2024,Good,Medium (3-6),Partially Met,4.8,Average,68.7
+EMP0073,IT,Developer,Q1 2024,Fair,Medium (3-6),Met,3.3,Good,72.5
+EMP0074,Finance,Analyst,Q2 2024,Excellent,Low (0-2),Exceeded,4.1,Good,80.9
+EMP0075,HR,HR Manager,Q4 2024,Fair,High (7+),Partially Met,4.6,Average,63.5
+EMP0076,Finance,Finance Manager,Q3 2024,Fair,Medium (3-6),Not Met,4.6,Poor,50.2
+EMP0077,Sales,Senior Sales Rep,Q3 2024,Good,Medium (3-6),Met,4.3,Outstanding,93.5
+EMP0078,Finance,Finance Manager,Q1 2024,Excellent,Low (0-2),Partially Met,3.2,Good,82.4
+EMP0079,HR,HR Assistant,Q2 2024,Excellent,High (7+),Met,4.6,Average,69.5
+EMP0080,Customer Service,CSR,Q2 2024,Good,Low (0-2),Met,3.3,Outstanding,88.8
+EMP0081,Sales,Sales Manager,Q1 2024,Fair,Medium (3-6),Partially Met,4.0,Outstanding,95.4
+EMP0082,Sales,Senior Sales Rep,Q1 2024,Good,Low (0-2),Exceeded,4.4,Average,59.4
+EMP0083,HR,HR Officer,Q4 2024,Fair,Low (0-2),Not Met,4.4,Outstanding,99.9
+EMP0084,Customer Service,Senior CSR,Q2 2024,Fair,Medium (3-6),Exceeded,4.4,Average,58.9
+EMP0085,IT,Developer,Q2 2024,Fair,High (7+),Not Met,4.3,Average,68.4
+EMP0086,Network Ops,Network Technician,Q1 2024,Good,High (7+),Exceeded,4.4,Average,67.9
+EMP0087,Network Ops,Senior Technician,Q1 2024,Good,High (7+),Met,4.6,Average,66.9
+EMP0088,Network Ops,Senior Technician,Q2 2024,Good,High (7+),Exceeded,3.0,Poor,48.6
+EMP0089,Finance,Senior Analyst,Q2 2024,Excellent,Low (0-2),Exceeded,3.9,Good,70.2
+EMP0090,Customer Service,CSR,Q1 2024,Good,High (7+),Met,4.4,Outstanding,90.5
+EMP0091,Sales,Sales Rep,Q2 2024,Good,High (7+),Exceeded,3.5,Average,64.2
+EMP0092,IT,Developer,Q1 2024,Good,High (7+),Exceeded,4.2,Poor,51.4
+EMP0093,HR,HR Officer,Q3 2024,Good,Medium (3-6),Met,3.1,Average,56.5
+EMP0094,Network Ops,Network Manager,Q4 2024,Good,Low (0-2),Exceeded,4.9,Outstanding,99.6
+EMP0095,Finance,Finance Manager,Q2 2024,Fair,High (7+),Exceeded,4.0,Poor,40.2
+EMP0096,IT,IT Support,Q4 2024,Excellent,Medium (3-6),Met,3.7,Poor,51.3
+EMP0097,IT,Developer,Q4 2024,Fair,Medium (3-6),Met,3.2,Outstanding,96.4
+EMP0098,Network Ops,Network Technician,Q3 2024,Fair,High (7+),Met,4.1,Outstanding,91.0
+EMP0099,IT,IT Support,Q2 2024,Good,High (7+),Met,3.7,Outstanding,90.2
+EMP0100,IT,Developer,Q2 2024,Excellent,Medium (3-6),Met,4.0,Poor,53.8
+EMP0101,Finance,Finance Manager,Q1 2024,Excellent,Low (0-2),Exceeded,4.6,Good,81.8
+EMP0102,Sales,Sales Manager,Q1 2024,Fair,Medium (3-6),Met,4.8,Good,80.6
+EMP0103,Sales,Senior Sales Rep,Q2 2024,Good,Medium (3-6),Exceeded,3.8,Average,68.0
+EMP0104,Sales,Senior Sales Rep,Q2 2024,Fair,High (7+),Exceeded,3.5,Good,74.1
+EMP0105,Sales,Sales Rep,Q1 2024,Fair,High (7+),Not Met,3.5,Outstanding,96.1
+EMP0106,Customer Service,CSR,Q3 2024,Excellent,Medium (3-6),Met,4.6,Outstanding,91.0
+EMP0107,Finance,Analyst,Q1 2024,Excellent,Low (0-2),Exceeded,4.2,Average,68.0
+EMP0108,Sales,Sales Rep,Q4 2024,Good,Low (0-2),Exceeded,3.4,Outstanding,96.6
+EMP0109,HR,HR Manager,Q3 2024,Excellent,High (7+),Not Met,3.8,Poor,46.5
+EMP0110,HR,HR Officer,Q4 2024,Good,High (7+),Met,3.4,Outstanding,86.7
+EMP0111,Finance,Analyst,Q4 2024,Fair,Medium (3-6),Met,4.5,Average,67.9
+EMP0112,Finance,Finance Manager,Q2 2024,Good,High (7+),Exceeded,3.5,Good,84.1
+EMP0113,Sales,Senior Sales Rep,Q3 2024,Good,Low (0-2),Met,3.3,Poor,54.2
+EMP0114,Customer Service,CS Supervisor,Q4 2024,Excellent,High (7+),Not Met,3.7,Poor,53.1
+EMP0115,Customer Service,CS Supervisor,Q1 2024,Excellent,Medium (3-6),Met,3.6,Outstanding,97.0
+EMP0116,Sales,Sales Rep,Q1 2024,Fair,Low (0-2),Met,4.3,Outstanding,93.5
+EMP0117,Sales,Sales Rep,Q3 2024,Good,High (7+),Met,3.9,Good,84.7
+EMP0118,Customer Service,CS Supervisor,Q4 2024,Fair,Low (0-2),Met,3.9,Outstanding,86.9
+EMP0119,Customer Service,CSR,Q3 2024,Good,Medium (3-6),Not Met,4.9,Average,69.2
+EMP0120,IT,Developer,Q2 2024,Excellent,High (7+),Not Met,3.7,Outstanding,96.4
+EMP0121,Network Ops,Senior Technician,Q3 2024,Good,Medium (3-6),Partially Met,4.5,Poor,41.8
+EMP0122,Finance,Analyst,Q1 2024,Excellent,High (7+),Exceeded,3.3,Poor,40.9
+EMP0123,Sales,Sales Rep,Q3 2024,Good,Medium (3-6),Not Met,5.0,Poor,52.2
+EMP0124,Sales,Senior Sales Rep,Q3 2024,Fair,Medium (3-6),Met,4.7,Poor,51.1
+EMP0125,Finance,Finance Manager,Q4 2024,Good,Medium (3-6),Met,3.8,Outstanding,88.7
+EMP0126,Network Ops,Senior Technician,Q2 2024,Good,Low (0-2),Partially Met,4.8,Poor,42.6
+EMP0127,Finance,Analyst,Q3 2024,Good,High (7+),Partially Met,4.1,Outstanding,97.2
+EMP0128,Network Ops,Network Technician,Q4 2024,Fair,High (7+),Partially Met,3.9,Poor,50.1
+EMP0129,HR,HR Manager,Q3 2024,Good,High (7+),Partially Met,3.4,Good,70.9
+EMP0130,HR,HR Assistant,Q3 2024,Excellent,Low (0-2),Met,3.9,Outstanding,99.5
+EMP0131,Network Ops,Senior Technician,Q2 2024,Excellent,Low (0-2),Met,4.0,Average,67.2
+EMP0132,IT,Developer,Q1 2024,Good,High (7+),Partially Met,3.6,Outstanding,91.1
+EMP0133,Finance,Finance Manager,Q3 2024,Fair,Medium (3-6),Partially Met,3.2,Poor,47.0
+EMP0134,HR,HR Assistant,Q4 2024,Excellent,High (7+),Not Met,3.4,Average,62.3
+EMP0135,Network Ops,Network Technician,Q2 2024,Good,Medium (3-6),Exceeded,4.9,Good,79.2
+EMP0136,Network Ops,Senior Technician,Q4 2024,Excellent,Medium (3-6),Exceeded,3.5,Good,76.6
+EMP0137,Sales,Senior Sales Rep,Q1 2024,Fair,Low (0-2),Partially Met,4.5,Poor,53.8
+EMP0138,Sales,Sales Manager,Q1 2024,Fair,Medium (3-6),Not Met,3.9,Outstanding,90.3
+EMP0139,IT,Developer,Q2 2024,Excellent,High (7+),Exceeded,4.0,Average,56.1
+EMP0140,Customer Service,CSR,Q1 2024,Fair,High (7+),Partially Met,3.3,Poor,49.0
+EMP0141,Sales,Sales Rep,Q2 2024,Fair,Medium (3-6),Exceeded,4.7,Outstanding,85.6
+EMP0142,Sales,Sales Manager,Q1 2024,Excellent,Medium (3-6),Met,3.9,Outstanding,97.6
+EMP0143,Customer Service,CSR,Q2 2024,Fair,Low (0-2),Exceeded,3.8,Average,56.8
+EMP0144,Finance,Analyst,Q4 2024,Fair,Medium (3-6),Not Met,3.5,Outstanding,96.1
+EMP0145,Network Ops,Network Manager,Q3 2024,Excellent,Low (0-2),Partially Met,3.9,Outstanding,97.1
+EMP0146,HR,HR Officer,Q3 2024,Good,High (7+),Met,3.9,Good,71.9
+EMP0147,Finance,Senior Analyst,Q2 2024,Fair,High (7+),Met,3.6,Outstanding,90.0
+EMP0148,Customer Service,Senior CSR,Q1 2024,Fair,Low (0-2),Exceeded,3.8,Average,56.0
+EMP0149,Customer Service,CSR,Q3 2024,Fair,Low (0-2),Partially Met,4.1,Good,74.4
+EMP0150,Network Ops,Network Technician,Q2 2024,Excellent,High (7+),Met,3.6,Average,67.8
+EMP0151,Finance,Finance Manager,Q3 2024,Good,High (7+),Met,4.7,Average,62.4
+EMP0152,Network Ops,Senior Technician,Q2 2024,Good,Medium (3-6),Exceeded,4.5,Outstanding,98.6
+EMP0153,Network Ops,Network Manager,Q4 2024,Good,Medium (3-6),Not Met,3.3,Good,78.7
+EMP0154,Network Ops,Network Manager,Q4 2024,Fair,High (7+),Met,5.0,Outstanding,87.3
+EMP0155,Sales,Sales Rep,Q1 2024,Excellent,High (7+),Partially Met,3.5,Average,65.0
+EMP0156,IT,Developer,Q1 2024,Fair,Medium (3-6),Met,4.1,Poor,52.7
+EMP0157,Sales,Senior Sales Rep,Q3 2024,Good,High (7+),Met,3.7,Good,83.9
+EMP0158,Network Ops,Senior Technician,Q3 2024,Fair,High (7+),Met,3.4,Average,66.4
+EMP0159,Network Ops,Network Technician,Q4 2024,Fair,Low (0-2),Met,3.6,Good,76.9
+EMP0160,Sales,Sales Rep,Q3 2024,Good,High (7+),Met,4.7,Good,72.3
